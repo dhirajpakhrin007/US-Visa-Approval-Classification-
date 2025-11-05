@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setuptools(
+setup(
     name='us_visa',
     version='0.0.0',
     author='Dhiraj',
